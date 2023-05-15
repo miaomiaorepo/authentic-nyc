@@ -1,0 +1,46 @@
+{
+  "name": "ms2",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode=production",
+    "dev": "webpack serve --hot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miaomiaorepo/MS2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miaomiaorepo/MS2/issues"
+  },
+  "homepage": "https://github.com/miaomiaorepo/MS2#readme",
+  "devDependencies": {
+    "@types/awesomplete": "^1.1.11",
+    "@types/d3": "^7.4.0",
+    "@types/geojson": "^7946.0.10",
+    "@types/mapbox-gl": "^2.7.11",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.7.3",
+    "html-webpack-plugin": "^5.5.1",
+    "prettier": "2.8.8",
+    "style-loader": "^3.3.2",
+    "ts-loader": "^9.4.2",
+    "typescript": "^5.0.4",
+    "webpack": "^5.82.0",
+    "webpack-cli": "^5.1.0",
+    "webpack-dev-server": "^4.15.0"
+  },
+  "dependencies": {
+    "@turf/bbox": "^6.5.0",
+    "@turf/buffer": "^6.5.0",
+    "awesomplete": "^1.1.5",
+    "d3": "^7.8.4",
+    "mapbox-gl": "^2.14.1",
+    "normalize.css": "^8.0.1"
+  }
+}

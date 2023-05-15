@@ -1,0 +1,1298 @@
+{
+  "cuisines": {
+    "Chinese": {
+      "weight": 232,
+      "color": "#FFB215",
+      "links": {
+        "Astoria (Central)": 1,
+        "Astoria (East)-Woodside (North)": 1,
+        "Auburndale": 1,
+        "Bath Beach": 2,
+        "Bay Ridge": 1,
+        "Bay Terrace-Clearview": 1,
+        "Bayside": 5,
+        "Bensonhurst": 4,
+        "Brooklyn Heights": 1,
+        "Chelsea-Hudson Yards": 4,
+        "Chinatown-Two Bridges": 27,
+        "Clinton Hill": 2,
+        "College Point": 2,
+        "Douglaston-Little Neck": 5,
+        "Downtown Brooklyn-DUMBO-Boerum Hill": 2,
+        "Dyker Heights": 1,
+        "East Flushing": 1,
+        "East Midtown-Turtle Bay": 3,
+        "East Village": 11,
+        "East Williamsburg": 1,
+        "Elmhurst": 6,
+        "Financial District-Battery Park City": 5,
+        "Flushing-Willets Point": 33,
+        "Forest Hills": 4,
+        "Fresh Meadows-Utopia": 1,
+        "Gramercy": 5,
+        "Grasmere-Arrochar-South Beach-Dongan Hills": 1,
+        "Gravesend (West)": 1,
+        "Greenwich Village": 6,
+        "Hell's Kitchen": 9,
+        "Long Island City-Hunters Point": 7,
+        "Lower East Side": 2,
+        "Madison": 1,
+        "Midtown South-Flatiron-Union Square": 10,
+        "Midtown-Times Square": 20,
+        "Morningside Heights": 3,
+        "Murray Hill-Broadway Flushing": 2,
+        "Murray Hill-Kips Bay": 4,
+        "New Dorp-Midland Beach": 2,
+        "Oakland Gardens-Hollis Hills": 1,
+        "Park Slope": 1,
+        "Pomonok-Electchester-Hillcrest": 1,
+        "Queensboro Hill": 1,
+        "SoHo-Little Italy-Hudson Square": 4,
+        "Sunset Park (Central)": 6,
+        "Sunset Park (East)-Borough Park (West)": 1,
+        "Tribeca-Civic Center": 1,
+        "Upper East Side-Lenox Hill-Roosevelt Island": 4,
+        "Upper East Side-Yorkville": 2,
+        "Upper West Side (Central)": 1,
+        "Upper West Side-Lincoln Square": 1,
+        "Upper West Side-Manhattan Valley": 6,
+        "West Village": 2,
+        "Whitestone-Beechhurst": 1,
+        "Williamsburg": 1
+      }
+    },
+    "Mexican": {
+      "weight": 208,
+      "color": "#40B137",
+      "links": {
+        "Astoria (Central)": 8,
+        "Astoria (East)-Woodside (North)": 3,
+        "Astoria (North)-Ditmars-Steinway": 1,
+        "Bath Beach": 1,
+        "Bay Ridge": 2,
+        "Bayside": 1,
+        "Bedford-Stuyvesant (West)": 1,
+        "Belmont": 1,
+        "Bensonhurst": 1,
+        "Borough Park": 1,
+        "Brighton Beach": 1,
+        "Brooklyn Heights": 1,
+        "Bushwick (East)": 2,
+        "Bushwick (West)": 6,
+        "Carroll Gardens-Cobble Hill-Gowanus-Red Hook": 3,
+        "Chelsea-Hudson Yards": 3,
+        "Clinton Hill": 3,
+        "College Point": 1,
+        "Concourse-Concourse Village": 1,
+        "Coney Island-Sea Gate": 1,
+        "Corona": 1,
+        "Crown Heights (North)": 1,
+        "Downtown Brooklyn-DUMBO-Boerum Hill": 2,
+        "East Elmhurst": 1,
+        "East Harlem (North)": 7,
+        "East Harlem (South)": 3,
+        "East Village": 6,
+        "East Williamsburg": 2,
+        "Elmhurst": 2,
+        "Far Rockaway-Bayswater": 1,
+        "Financial District-Battery Park City": 1,
+        "Flatbush (West)-Ditmas Park-Parkville": 3,
+        "Flatlands": 1,
+        "Forest Hills": 2,
+        "Fort Greene": 2,
+        "Fresh Meadows-Utopia": 1,
+        "Gramercy": 3,
+        "Gravesend (East)-Homecrest": 1,
+        "Great Kills-Eltingville": 2,
+        "Greenpoint": 4,
+        "Greenwich Village": 5,
+        "Hamilton Heights-Sugar Hill": 2,
+        "Harlem (South)": 1,
+        "Hell's Kitchen": 5,
+        "Inwood": 1,
+        "Jackson Heights": 3,
+        "Jamaica": 2,
+        "Jamaica Hills-Briarwood": 1,
+        "Kew Gardens": 1,
+        "Kingsbridge-Marble Hill": 1,
+        "Lower East Side": 1,
+        "Madison": 2,
+        "Manhattanville-West Harlem": 2,
+        "Maspeth": 1,
+        "Melrose": 2,
+        "Midtown South-Flatiron-Union Square": 1,
+        "Midtown-Times Square": 4,
+        "Morningside Heights": 1,
+        "Mott Haven-Port Morris": 2,
+        "Murray Hill-Broadway Flushing": 1,
+        "Murray Hill-Kips Bay": 3,
+        "New Dorp-Midland Beach": 2,
+        "Norwood": 1,
+        "Ozone Park": 1,
+        "Park Slope": 2,
+        "Parkchester": 1,
+        "Pelham Bay-Country Club-City Island": 2,
+        "Pelham Parkway-Van Nest": 2,
+        "Pomonok-Electchester-Hillcrest": 1,
+        "Port Richmond": 2,
+        "Prospect Heights": 2,
+        "Prospect Lefferts Gardens-Wingate": 1,
+        "Richmond Hill": 1,
+        "Ridgewood": 5,
+        "Riverdale-Spuyten Duyvil": 2,
+        "SoHo-Little Italy-Hudson Square": 3,
+        "St. George-New Brighton": 1,
+        "Sunnyside": 2,
+        "Sunset Park (Central)": 1,
+        "Sunset Park (West)": 6,
+        "Throgs Neck-Schuylerville": 1,
+        "Tompkinsville-Stapleton-Clifton-Fox Hills": 1,
+        "Tottenville-Charleston": 2,
+        "Tribeca-Civic Center": 1,
+        "University Heights (South)-Morris Heights": 1,
+        "Upper East Side-Carnegie Hill": 2,
+        "Upper East Side-Lenox Hill-Roosevelt Island": 2,
+        "Upper East Side-Yorkville": 3,
+        "Upper West Side (Central)": 2,
+        "Upper West Side-Lincoln Square": 2,
+        "Upper West Side-Manhattan Valley": 4,
+        "Washington Heights (North)": 2,
+        "Washington Heights (South)": 4,
+        "West Village": 2,
+        "Westchester Square": 2,
+        "Westerleigh-Castleton Corners": 1,
+        "Williamsburg": 7,
+        "Woodside": 1
+      }
+    },
+    "Italian": {
+      "weight": 87,
+      "color": "#EC3329",
+      "links": {
+        "Astoria (Central)": 3,
+        "Astoria (North)-Ditmars-Steinway": 1,
+        "Auburndale": 1,
+        "Bay Ridge": 1,
+        "Bay Terrace-Clearview": 1,
+        "Bayside": 1,
+        "Belmont": 4,
+        "Bensonhurst": 2,
+        "Breezy Point-Belle Harbor-Rockaway Park-Broad Channel": 1,
+        "Brooklyn Heights": 2,
+        "Carroll Gardens-Cobble Hill-Gowanus-Red Hook": 7,
+        "Clinton Hill": 1,
+        "Crown Heights (North)": 1,
+        "East Harlem (North)": 1,
+        "East Village": 5,
+        "Forest Hills": 1,
+        "Gramercy": 1,
+        "Grasmere-Arrochar-South Beach-Dongan Hills": 1,
+        "Greenwich Village": 5,
+        "Harlem (South)": 1,
+        "Hell's Kitchen": 4,
+        "Long Island City-Hunters Point": 3,
+        "Lower East Side": 1,
+        "Marine Park-Mill Basin-Bergen Beach": 1,
+        "Midtown South-Flatiron-Union Square": 1,
+        "Midtown-Times Square": 4,
+        "Park Slope": 3,
+        "Ridgewood": 1,
+        "SoHo-Little Italy-Hudson Square": 12,
+        "St. George-New Brighton": 1,
+        "Sunnyside": 1,
+        "Upper East Side-Lenox Hill-Roosevelt Island": 2,
+        "Upper East Side-Yorkville": 3,
+        "Upper West Side (Central)": 3,
+        "Upper West Side-Manhattan Valley": 1,
+        "West Village": 3,
+        "Williamsburg": 2
+      }
+    },
+    "Thai": {
+      "weight": 68,
+      "color": "#FFCF8B",
+      "links": {
+        "Astoria (Central)": 2,
+        "Auburndale": 1,
+        "Bay Ridge": 2,
+        "Bedford-Stuyvesant (East)": 1,
+        "Bensonhurst": 2,
+        "Bushwick (West)": 1,
+        "Chelsea-Hudson Yards": 1,
+        "Chinatown-Two Bridges": 1,
+        "Douglaston-Little Neck": 1,
+        "East Harlem (South)": 2,
+        "East Village": 4,
+        "Elmhurst": 13,
+        "Financial District-Battery Park City": 1,
+        "Flatbush (West)-Ditmas Park-Parkville": 1,
+        "Fresh Meadows-Utopia": 1,
+        "Greenwich Village": 2,
+        "Hell's Kitchen": 4,
+        "Jackson Heights": 1,
+        "Kensington": 1,
+        "Kew Gardens": 1,
+        "Lower East Side": 1,
+        "Maspeth": 1,
+        "Middle Village": 1,
+        "Midtown South-Flatiron-Union Square": 1,
+        "Midtown-Times Square": 1,
+        "Murray Hill-Broadway Flushing": 1,
+        "Murray Hill-Kips Bay": 1,
+        "Park Slope": 2,
+        "Queensbridge-Ravenswood-Dutch Kills": 1,
+        "SoHo-Little Italy-Hudson Square": 2,
+        "Soundview-Bruckner-Bronx River": 1,
+        "St. George-New Brighton": 1,
+        "Sunnyside": 2,
+        "Upper East Side-Lenox Hill-Roosevelt Island": 1,
+        "Upper West Side (Central)": 1,
+        "Williamsburg": 4,
+        "Woodside": 3
+      }
+    },
+    "Japanese": {
+      "weight": 56,
+      "color": "#F7BA1E",
+      "links": {
+        "Astoria (Central)": 1,
+        "Brooklyn Heights": 1,
+        "Carroll Gardens-Cobble Hill-Gowanus-Red Hook": 1,
+        "Chinatown-Two Bridges": 1,
+        "Crown Heights (North)": 1,
+        "Downtown Brooklyn-DUMBO-Boerum Hill": 1,
+        "East Midtown-Turtle Bay": 5,
+        "East Village": 8,
+        "East Williamsburg": 2,
+        "Flushing-Willets Point": 2,
+        "Forest Hills": 1,
+        "Greenwich Village": 2,
+        "Hell's Kitchen": 1,
+        "Long Island City-Hunters Point": 1,
+        "Lower East Side": 1,
+        "Midtown South-Flatiron-Union Square": 2,
+        "Midtown-Times Square": 6,
+        "Murray Hill-Kips Bay": 2,
+        "Park Slope": 1,
+        "Prospect Heights": 1,
+        "Prospect Lefferts Gardens-Wingate": 1,
+        "SoHo-Little Italy-Hudson Square": 2,
+        "Sunnyside": 2,
+        "Upper East Side-Lenox Hill-Roosevelt Island": 3,
+        "Upper West Side-Lincoln Square": 1,
+        "Upper West Side-Manhattan Valley": 2,
+        "West Village": 2,
+        "Williamsburg": 2
+      }
+    },
+    "Indian": {
+      "weight": 44,
+      "color": "#CC9213",
+      "links": {
+        "Bayside": 1,
+        "Chelsea-Hudson Yards": 2,
+        "East Flushing": 2,
+        "East Midtown-Turtle Bay": 1,
+        "East Village": 4,
+        "Elmhurst": 1,
+        "Glen Oaks-Floral Park-New Hyde Park": 3,
+        "Gramercy": 5,
+        "Greenwich Village": 1,
+        "Hell's Kitchen": 2,
+        "Jackson Heights": 5,
+        "Jamaica Hills-Briarwood": 1,
+        "Lower East Side": 2,
+        "Midtown South-Flatiron-Union Square": 1,
+        "Midtown-Times Square": 3,
+        "Murray Hill-Kips Bay": 1,
+        "Norwood": 1,
+        "Park Slope": 1,
+        "Queensbridge-Ravenswood-Dutch Kills": 1,
+        "South Richmond Hill": 1,
+        "Sunnyside": 1,
+        "Upper West Side (Central)": 1,
+        "Upper West Side-Manhattan Valley": 1,
+        "West Village": 2
+      }
+    },
+    "Latin American": {
+      "weight": 38,
+      "color": "#23C343",
+      "links": {
+        "Astoria (Central)": 1,
+        "Astoria (East)-Woodside (North)": 1,
+        "Bedford-Stuyvesant (West)": 1,
+        "Belmont": 1,
+        "Bushwick (East)": 1,
+        "East Harlem (North)": 1,
+        "East Harlem (South)": 2,
+        "East Village": 4,
+        "Elmhurst": 2,
+        "Fordham Heights": 1,
+        "Hell's Kitchen": 3,
+        "Inwood": 1,
+        "Jackson Heights": 2,
+        "Lower East Side": 1,
+        "Mariner's Harbor-Arlington-Graniteville": 1,
+        "Middle Village": 1,
+        "Park Slope": 1,
+        "Prospect Heights": 1,
+        "Richmond Hill": 1,
+        "Sunnyside": 3,
+        "Sunset Park (West)": 1,
+        "Throgs Neck-Schuylerville": 1,
+        "Upper East Side-Yorkville": 1,
+        "Washington Heights (North)": 1,
+        "Westchester Square": 1,
+        "Williamsburg": 2,
+        "Woodside": 1
+      }
+    },
+    "Vietnamese": {
+      "weight": 31,
+      "color": "#D25F00",
+      "links": {
+        "Auburndale": 1,
+        "Bath Beach": 1,
+        "Borough Park": 1,
+        "Chinatown-Two Bridges": 5,
+        "Douglaston-Little Neck": 1,
+        "East Midtown-Turtle Bay": 1,
+        "East Village": 5,
+        "Flushing-Willets Point": 1,
+        "Glen Oaks-Floral Park-New Hyde Park": 1,
+        "Gravesend (West)": 1,
+        "Greenpoint": 1,
+        "Greenwich Village": 1,
+        "Long Island City-Hunters Point": 1,
+        "Murray Hill-Broadway Flushing": 2,
+        "New Dorp-Midland Beach": 1,
+        "SoHo-Little Italy-Hudson Square": 2,
+        "Sunset Park (Central)": 1,
+        "University Heights (North)-Fordham": 1,
+        "Upper West Side-Manhattan Valley": 2,
+        "Williamsburg": 1
+      }
+    },
+    "Mediterranean": {
+      "weight": 27,
+      "color": "#CC5120",
+      "links": {
+        "Astoria (East)-Woodside (North)": 4,
+        "Bay Ridge": 1,
+        "Bushwick (West)": 1,
+        "Carroll Gardens-Cobble Hill-Gowanus-Red Hook": 1,
+        "East Midtown-Turtle Bay": 4,
+        "East Village": 3,
+        "Great Kills-Eltingville": 1,
+        "Greenwich Village": 2,
+        "Hell's Kitchen": 2,
+        "Long Island City-Hunters Point": 1,
+        "Murray Hill-Broadway Flushing": 1,
+        "Queensbridge-Ravenswood-Dutch Kills": 1,
+        "Sunnyside": 2,
+        "Tottenville-Charleston": 1,
+        "Upper East Side-Carnegie Hill": 1,
+        "Williamsburg": 1
+      }
+    },
+    "Korean": {
+      "weight": 26,
+      "color": "#FF9A2E",
+      "links": {
+        "Astoria (Central)": 1,
+        "Carroll Gardens-Cobble Hill-Gowanus-Red Hook": 1,
+        "Chinatown-Two Bridges": 1,
+        "East Midtown-Turtle Bay": 1,
+        "East Village": 1,
+        "East Williamsburg": 1,
+        "Flushing-Willets Point": 1,
+        "Fort Greene": 2,
+        "Greenwich Village": 1,
+        "Midtown-Times Square": 3,
+        "Murray Hill-Broadway Flushing": 8,
+        "Murray Hill-Kips Bay": 1,
+        "SoHo-Little Italy-Hudson Square": 1,
+        "Sunnyside": 1,
+        "Sunset Park (West)": 1,
+        "Williamsburg": 1
+      }
+    },
+    "Eastern European": {
+      "weight": 25,
+      "color": "#FCC59F",
+      "links": {
+        "Astoria (North)-Ditmars-Steinway": 1,
+        "Bay Ridge": 1,
+        "Bensonhurst": 1,
+        "Brighton Beach": 3,
+        "Chelsea-Hudson Yards": 1,
+        "East Village": 3,
+        "Financial District-Battery Park City": 1,
+        "Gravesend (East)-Homecrest": 1,
+        "Greenpoint": 4,
+        "Greenwich Village": 1,
+        "Midtown South-Flatiron-Union Square": 1,
+        "Midtown-Times Square": 3,
+        "Rego Park": 1,
+        "Upper East Side-Lenox Hill-Roosevelt Island": 2,
+        "Upper East Side-Yorkville": 1
+      }
+    },
+    "Greek": {
+      "weight": 20,
+      "color": "#F76560",
+      "links": {
+        "Astoria (Central)": 1,
+        "Astoria (North)-Ditmars-Steinway": 6,
+        "Auburndale": 1,
+        "Bay Terrace-Clearview": 1,
+        "Carroll Gardens-Cobble Hill-Gowanus-Red Hook": 1,
+        "Douglaston-Little Neck": 1,
+        "Dyker Heights": 1,
+        "East Midtown-Turtle Bay": 2,
+        "East Village": 1,
+        "Lower East Side": 1,
+        "Midtown-Times Square": 1,
+        "Morningside Heights": 1,
+        "Riverdale-Spuyten Duyvil": 1,
+        "SoHo-Little Italy-Hudson Square": 1
+      }
+    },
+    "Spanish": {
+      "weight": 19,
+      "color": "#FDCDC5",
+      "links": {
+        "Astoria (Central)": 1,
+        "Astoria (East)-Woodside (North)": 1,
+        "Chelsea-Hudson Yards": 3,
+        "East Village": 1,
+        "Glen Oaks-Floral Park-New Hyde Park": 1,
+        "Hell's Kitchen": 1,
+        "Jackson Heights": 1,
+        "Lower East Side": 1,
+        "Midtown-Times Square": 1,
+        "Murray Hill-Kips Bay": 2,
+        "New Springville-Willowbrook-Bulls Head-Travis": 1,
+        "Prospect Lefferts Gardens-Wingate": 1,
+        "SoHo-Little Italy-Hudson Square": 3,
+        "West Village": 1
+      }
+    },
+    "Taiwanese": {
+      "weight": 19,
+      "color": "#F9CC45",
+      "links": {
+        "Bayside": 2,
+        "Chinatown-Two Bridges": 2,
+        "East Flushing": 1,
+        "East Village": 4,
+        "East Williamsburg": 1,
+        "Elmhurst": 2,
+        "Flushing-Willets Point": 4,
+        "Greenpoint": 1,
+        "Hell's Kitchen": 1,
+        "Queensboro Hill": 1
+      }
+    },
+    "Caribbean": {
+      "weight": 17,
+      "color": "#009A29",
+      "links": {
+        "Bedford-Stuyvesant (West)": 1,
+        "Bushwick (West)": 1,
+        "Carroll Gardens-Cobble Hill-Gowanus-Red Hook": 1,
+        "Chelsea-Hudson Yards": 1,
+        "Concourse-Concourse Village": 1,
+        "Corona": 1,
+        "Crown Heights (South)": 1,
+        "East Harlem (North)": 1,
+        "Harlem (South)": 2,
+        "Hell's Kitchen": 1,
+        "Lower East Side": 1,
+        "Midtown-Times Square": 1,
+        "Prospect Heights": 1,
+        "Prospect Lefferts Gardens-Wingate": 1,
+        "Washington Heights (South)": 1,
+        "West Village": 1
+      }
+    },
+    "Middle Eastern": {
+      "weight": 12,
+      "color": "#CC5120",
+      "links": {
+        "Astoria (East)-Woodside (North)": 1,
+        "Bay Ridge": 3,
+        "Brooklyn Heights": 1,
+        "Carroll Gardens-Cobble Hill-Gowanus-Red Hook": 2,
+        "Chelsea-Hudson Yards": 1,
+        "Fort Greene": 1,
+        "Gramercy": 1,
+        "Kensington": 1,
+        "West Village": 1
+      }
+    },
+    "Malaysian": {
+      "weight": 12,
+      "color": "#FF7D00",
+      "links": {
+        "Bensonhurst": 1,
+        "Chinatown-Two Bridges": 3,
+        "East Village": 1,
+        "Elmhurst": 2,
+        "Flushing-Willets Point": 2,
+        "Greenwich Village": 1,
+        "SoHo-Little Italy-Hudson Square": 1,
+        "Upper West Side-Manhattan Valley": 1
+      }
+    },
+    "African": {
+      "weight": 11,
+      "color": "#F77234",
+      "links": {
+        "Astoria (East)-Woodside (North)": 1,
+        "Astoria (North)-Ditmars-Steinway": 1,
+        "Bedford-Stuyvesant (West)": 1,
+        "East Harlem (North)": 1,
+        "East Midtown-Turtle Bay": 1,
+        "Harlem (South)": 2,
+        "Midtown South-Flatiron-Union Square": 1,
+        "Ocean Hill": 1,
+        "Queensbridge-Ravenswood-Dutch Kills": 1,
+        "SoHo-Little Italy-Hudson Square": 1
+      }
+    },
+    "Filipino": {
+      "weight": 11,
+      "color": "#FF9A2E",
+      "links": {
+        "Carroll Gardens-Cobble Hill-Gowanus-Red Hook": 1,
+        "East Village": 1,
+        "Elmhurst": 1,
+        "Gramercy": 1,
+        "Hell's Kitchen": 1,
+        "Rosebank-Shore Acres-Park Hill": 1,
+        "Sunnyside": 1,
+        "Upper East Side-Lenox Hill-Roosevelt Island": 1,
+        "Woodside": 3
+      }
+    }
+  },
+  "neighborhoods": {
+    "East Village": {
+      "weight": 62,
+      "color": "#FFBFA9",
+      "links": {}
+    },
+    "Midtown-Times Square": {
+      "weight": 49,
+      "color": "#FFEBB4",
+      "links": {}
+    },
+    "Flushing-Willets Point": {
+      "weight": 43,
+      "color": "#FBFFB1",
+      "links": {}
+    },
+    "Chinatown-Two Bridges": {
+      "weight": 40,
+      "color": "#CCD5AE",
+      "links": {}
+    },
+    "Hell's Kitchen": {
+      "weight": 35,
+      "color": "#E9EDC9",
+      "links": {}
+    },
+    "SoHo-Little Italy-Hudson Square": {
+      "weight": 32,
+      "color": "#FAEDCD",
+      "links": {}
+    },
+    "Elmhurst": {
+      "weight": 29,
+      "color": "#F5F0BB",
+      "links": {}
+    },
+    "Greenwich Village": {
+      "weight": 27,
+      "color": "#DBDFAA",
+      "links": {}
+    },
+    "Williamsburg": {
+      "weight": 21,
+      "color": "#73A9AD",
+      "links": {}
+    },
+    "Astoria (Central)": {
+      "weight": 20,
+      "color": "#D9D7F1",
+      "links": {}
+    },
+    "East Midtown-Turtle Bay": {
+      "weight": 19,
+      "color": "#E7FBBE",
+      "links": {}
+    },
+    "Carroll Gardens-Cobble Hill-Gowanus-Red Hook": {
+      "weight": 18,
+      "color": "#FFCBCB",
+      "links": {}
+    },
+    "Midtown South-Flatiron-Union Square": {
+      "weight": 18,
+      "color": "#BABD42",
+      "links": {}
+    },
+    "West Village": {
+      "weight": 17,
+      "color": "#82954B",
+      "links": {}
+    },
+    "Chelsea-Hudson Yards": {
+      "weight": 17,
+      "color": "#A3E4DB",
+      "links": {}
+    },
+    "Upper West Side-Manhattan Valley": {
+      "weight": 17,
+      "color": "#D06224",
+      "links": {}
+    },
+    "Gramercy": {
+      "weight": 16,
+      "color": "#AE431E",
+      "links": {}
+    },
+    "Murray Hill-Kips Bay": {
+      "weight": 15,
+      "color": "#483434",
+      "links": {}
+    },
+    "Murray Hill-Broadway Flushing": {
+      "weight": 15,
+      "color": "#87A7B3",
+      "links": {}
+    },
+    "Upper East Side-Lenox Hill-Roosevelt Island": {
+      "weight": 15,
+      "color": "#7B6079",
+      "links": {}
+    },
+    "Sunnyside": {
+      "weight": 15,
+      "color": "#FB743E",
+      "links": {}
+    },
+    "Long Island City-Hunters Point": {
+      "weight": 14,
+      "color": "#C2B092",
+      "links": {}
+    },
+    "Astoria (East)-Woodside (North)": {
+      "weight": 13,
+      "color": "#F69E7B",
+      "links": {}
+    },
+    "Lower East Side": {
+      "weight": 12,
+      "color": "#FF7315",
+      "links": {}
+    },
+    "Bay Ridge": {
+      "weight": 12,
+      "color": "#943855",
+      "links": {}
+    },
+    "Park Slope": {
+      "weight": 12,
+      "color": "#FFC60B",
+      "links": {}
+    },
+    "Jackson Heights": {
+      "weight": 12,
+      "color": "#283148",
+      "links": {}
+    },
+    "Bensonhurst": {
+      "weight": 11,
+      "color": "#5F685A",
+      "links": {}
+    },
+    "East Harlem (North)": {
+      "weight": 11,
+      "color": "#F67280",
+      "links": {}
+    },
+    "Upper East Side-Yorkville": {
+      "weight": 11,
+      "color": "#857671",
+      "links": {}
+    },
+    "Astoria (North)-Ditmars-Steinway": {
+      "weight": 10,
+      "color": "#DCE8BA",
+      "links": {}
+    },
+    "Bayside": {
+      "weight": 10,
+      "color": "#9B9B7F",
+      "links": {}
+    },
+    "Greenpoint": {
+      "weight": 10,
+      "color": "#81CE82",
+      "links": {}
+    },
+    "Bushwick (West)": {
+      "weight": 9,
+      "color": "#D9B69C",
+      "links": {}
+    },
+    "Financial District-Battery Park City": {
+      "weight": 9,
+      "color": "#A3C6CD",
+      "links": {}
+    },
+    "Woodside": {
+      "weight": 8,
+      "color": "#E89CBE",
+      "links": {}
+    },
+    "Sunset Park (Central)": {
+      "weight": 8,
+      "color": "#D5A5E5",
+      "links": {}
+    },
+    "Douglaston-Little Neck": {
+      "weight": 8,
+      "color": "#8FCCA8",
+      "links": {}
+    },
+    "Upper West Side (Central)": {
+      "weight": 8,
+      "color": "#F4D36A",
+      "links": {}
+    },
+    "Sunset Park (West)": {
+      "weight": 8,
+      "color": "#A4B7F0",
+      "links": {}
+    },
+    "Forest Hills": {
+      "weight": 8,
+      "color": "#F197A7",
+      "links": {}
+    },
+    "East Williamsburg": {
+      "weight": 7,
+      "color": "#CD90C7",
+      "links": {}
+    },
+    "Bayside": {
+      "weight": 10,
+      "color": "#9B9B7F",
+      "links": {}
+    },
+    "Greenpoint": {
+      "weight": 10,
+      "color": "#81CE82",
+      "links": {}
+    },
+    "Bushwick (West)": {
+      "weight": 9,
+      "color": "#D9B69C",
+      "links": {}
+    },
+    "Financial District-Battery Park City": {
+      "weight": 9,
+      "color": "#A3C6CD",
+      "links": {}
+    },
+    "Woodside": {
+      "weight": 8,
+      "color": "#E89CBE",
+      "links": {}
+    },
+    "Sunset Park (Central)": {
+      "weight": 8,
+      "color": "#D5A5E5",
+      "links": {}
+    },
+    "Douglaston-Little Neck": {
+      "weight": 8,
+      "color": "#8FCCA8",
+      "links": {}
+    },
+    "Upper West Side (Central)": {
+      "weight": 8,
+      "color": "#F4D36A",
+      "links": {}
+    },
+    "Sunset Park (West)": {
+      "weight": 8,
+      "color": "#A4B7F0",
+      "links": {}
+    },
+    "Forest Hills": {
+      "weight": 8,
+      "color": "#F197A7",
+      "links": {}
+    },
+    "East Williamsburg": {
+      "weight": 7,
+      "color": "#CD90C7",
+      "links": {}
+    },
+    "East Harlem (South)": {
+      "weight": 7,
+      "color": "#FCE2D8",
+      "links": {}
+    },
+    "Belmont": {
+      "weight": 6,
+      "color": "#C3DBA1",
+      "links": {}
+    },
+    "Clinton Hill": {
+      "weight": 6,
+      "color": "#F0EB60",
+      "links": {}
+    },
+    "Brooklyn Heights": {
+      "weight": 6,
+      "color": "#8BD6D2",
+      "links": {}
+    },
+    "Prospect Heights": {
+      "weight": 6,
+      "color": "#DAB493",
+      "links": {}
+    },
+    "Harlem (South)": {
+      "weight": 6,
+      "color": "#BC8FA3",
+      "links": {}
+    },
+    "Ridgewood": {
+      "weight": 6,
+      "color": "#ECC3FF",
+      "links": {}
+    },
+    "Morningside Heights": {
+      "weight": 5,
+      "color": "#8C96A8",
+      "links": {}
+    },
+    "Washington Heights (South)": {
+      "weight": 5,
+      "color": "#F6E27C",
+      "links": {}
+    },
+    "New Dorp-Midland Beach": {
+      "weight": 5,
+      "color": "#AFDBB3",
+      "links": {}
+    },
+    "Downtown Brooklyn-DUMBO-Boerum Hill": {
+      "weight": 5,
+      "color": "#FFA8BA",
+      "links": {}
+    },
+    "Brighton Beach": {
+      "weight": 5,
+      "color": "#EEC2E8",
+      "links": {}
+    },
+    "Queensbridge-Ravenswood-Dutch Kills": {
+      "weight": 5,
+      "color": "#BCEAF5",
+      "links": {}
+    },
+    "Auburndale": {
+      "weight": 5,
+      "color": "#FCD2B5",
+      "links": {}
+    },
+    "Glen Oaks-Floral Park-New Hyde Park": {
+      "weight": 5,
+      "color": "#9CB9FF",
+      "links": {}
+    },
+    "Fort Greene": {
+      "weight": 5,
+      "color": "#FFC1A6",
+      "links": {}
+    },
+    "Upper West Side-Lincoln Square": {
+      "weight": 4,
+      "color": "#8EA062",
+      "links": {}
+    },
+    "Tottenville-Charleston": {
+      "weight": 4,
+      "color": "#FFFB9D",
+      "links": {}
+    },
+    "Bedford-Stuyvesant (West)": {
+      "weight": 4,
+      "color": "#A6D1A6",
+      "links": {}
+    },
+    "Prospect Lefferts Gardens-Wingate": {
+      "weight": 4,
+      "color": "#FFB0A0",
+      "links": {}
+    },
+    "Bath Beach": {
+      "weight": 4,
+      "color": "#A1CDF1",
+      "links": {}
+    },
+    "East Flushing": {
+      "weight": 4,
+      "color": "#F7F7D8",
+      "links": {}
+    },
+    "Flatbush (West)-Ditmas Park-Parkville": {
+      "weight": 4,
+      "color": "#D6DB97",
+      "links": {}
+    },
+    "Upper East Side-Carnegie Hill": {
+      "weight": 3,
+      "color": "#DDF6C3",
+      "links": {}
+    },
+    "Crown Heights (North)": {
+      "weight": 3,
+      "color": "#FFF8A5",
+      "links": {}
+    },
+    "Bushwick (East)": {
+      "weight": 3,
+      "color": "#D0F4E7",
+      "links": {}
+    },
+    "Bay Terrace-Clearview": {
+      "weight": 3,
+      "color": "#D1C1FF",
+      "links": {}
+    },
+    "Madison": {
+      "weight": 3,
+      "color": "#F6E8B9",
+      "links": {}
+    },
+    "Westchester Square": {
+      "weight": 3,
+      "color": "#F9C9A7",
+      "links": {}
+    },
+    "Great Kills-Eltingville": {
+      "weight": 3,
+      "color": "#B7DFF6",
+      "links": {}
+    },
+    "Fresh Meadows-Utopia": {
+      "weight": 3,
+      "color": "#D7C5FF",
+      "links": {}
+    },
+    "College Point": {
+      "weight": 3,
+      "color": "#FFB7B2",
+      "links": {}
+    },
+    "St. George-New Brighton": {
+      "weight": 3,
+      "color": "#C3FFBA",
+      "links": {}
+    },
+    "Washington Heights (North)": {
+      "weight": 3,
+      "color": "#FFDAAB",
+      "links": {}
+    },
+    "Riverdale-Spuyten Duyvil": {
+      "weight": 3,
+      "color": "#B4E2B7",
+      "links": {}
+    },
+    "Gravesend (East)-Homecrest": {
+      "weight": 2,
+      "color": "#FDF8E2",
+      "links": {}
+    },
+    "Kensington": {
+      "weight": 2,
+      "color": "#B5C8D7",
+      "links": {}
+    },
+    "Borough Park": {
+      "weight": 2,
+      "color": "#FFF1C1",
+      "links": {}
+    },
+    "Port Richmond": {
+      "weight": 2,
+      "color": "#A2FFD8",
+      "links": {}
+    },
+    "Maspeth": {
+      "weight": 2,
+      "color": "#D6F8FF",
+      "links": {}
+    },
+    "Tribeca-Civic Center": {
+      "weight": 2,
+      "color": "#FFA3A3",
+      "links": {}
+    },
+    "Manhattanville-West Harlem": {
+      "weight": 2,
+      "color": "#C6A7FF",
+      "links": {}
+    },
+    "Inwood": {
+      "weight": 2,
+      "color": "#FFCBB7",
+      "links": {}
+    },
+    "Queensboro Hill": {
+      "weight": 2,
+      "color": "#B4FCD7",
+      "links": {}
+    },
+    "Mott Haven-Port Morris": {
+      "weight": 2,
+      "color": "#FFF8DC",
+      "links": {}
+    },
+    "Jamaica": {
+      "weight": 2,
+      "color": "#C2FFEA",
+      "links": {}
+    },
+    "Dyker Heights": {
+      "weight": 2,
+      "color": "#FFCCF9",
+      "links": {}
+    },
+    "Throgs Neck-Schuylerville": {
+      "weight": 2,
+      "color": "#E8FFB7",
+      "links": {}
+    },
+    "Pomonok-Electchester-Hillcrest": {
+      "weight": 2,
+      "color": "#FFACFF",
+      "links": {}
+    },
+    "Grasmere-Arrochar-South Beach-Dongan Hills": {
+      "weight": 2,
+      "color": "#D4E8FF",
+      "links": {}
+    },
+    "Hamilton Heights-Sugar Hill": {
+      "weight": 2,
+      "color": "#FFEC8A",
+      "links": {}
+    },
+    "Pelham Bay-Country Club-City Island": {
+      "weight": 2,
+      "color": "#A0FFD9",
+      "links": {}
+    },
+    "Pelham Parkway-Van Nest": {
+      "weight": 2,
+      "color": "#FFD7D1",
+      "links": {}
+    },
+    "Norwood": {
+      "weight": 2,
+      "color": "#F1FFB0",
+      "links": {}
+    },
+    "Corona": {
+      "weight": 2,
+      "color": "#FFE1A7",
+      "links": {}
+    },
+    "Kew Gardens": {
+      "weight": 2,
+      "color": "#FFDDB5",
+      "links": {}
+    },
+    "Concourse-Concourse Village": {
+      "weight": 2,
+      "color": "#B0FFEC",
+      "links": {}
+    },
+    "Jamaica Hills-Briarwood": {
+      "weight": 2,
+      "color": "#D8B5FF",
+      "links": {}
+    },
+    "Middle Village": {
+      "weight": 2,
+      "color": "#FFACD9",
+      "links": {}
+    },
+    "Melrose": {
+      "weight": 2,
+      "color": "#E8D2FF",
+      "links": {}
+    },
+    "Gravesend (West)": {
+      "weight": 2,
+      "color": "#FFDAB5",
+      "links": {}
+    },
+    "Richmond Hill": {
+      "weight": 2,
+      "color": "#C6FFB3",
+      "links": {}
+    },
+    "Rego Park": {
+      "weight": 1,
+      "color": "#FFF8F0",
+      "links": {}
+    },
+    "Glendale": {
+      "weight": 1,
+      "color": "#FFEFDF",
+      "links": {}
+    },
+    "Bedford-Stuyvesant (East)": {
+      "weight": 1,
+      "color": "#D8FFDF",
+      "links": {}
+    },
+    "West New Brighton-Silver Lake-Grymes Hill": {
+      "weight": 1,
+      "color": "#FFD9F9",
+      "links": {}
+    },
+    "University Heights (North)-Fordham": {
+      "weight": 1,
+      "color": "#DBFFB5",
+      "links": {}
+    },
+    "Sunset Park (East)-Borough Park (West)": {
+      "weight": 1,
+      "color": "#FFFAEC",
+      "links": {}
+    },
+    "New Springville-Willowbrook-Bulls Head-Travis": {
+      "weight": 1,
+      "color": "#F9FFCD",
+      "links": {}
+    },
+    "Coney Island-Sea Gate": {
+      "weight": 1,
+      "color": "#FFF7D6",
+      "links": {}
+    },
+    "East Elmhurst": {
+      "weight": 1,
+      "color": "#F7FFDF",
+      "links": {}
+    },
+    "Fordham Heights": {
+      "weight": 1,
+      "color": "#FFFBF5",
+      "links": {}
+    },
+    "Marine Park-Mill Basin-Bergen Beach": {
+      "weight": 1,
+      "color": "#FFEFFD",
+      "links": {}
+    },
+    "Ozone Park": {
+      "weight": 1,
+      "color": "#F5FFD4",
+      "links": {}
+    },
+    "Breezy Point-Belle Harbor-Rockaway Park-Broad Channel": {
+      "weight": 1,
+      "color": "#FFFCDD",
+      "links": {}
+    },
+    "Flatlands": {
+      "weight": 1,
+      "color": "#FFF5FC",
+      "links": {}
+    },
+    "Soundview-Bruckner-Bronx River": {
+      "weight": 1,
+      "color": "#FFD6FF",
+      "links": {}
+    },
+    "Ocean Hill": {
+      "weight": 1,
+      "color": "#FFF2E8",
+      "links": {}
+    },
+    "South Richmond Hill": {
+      "weight": 1,
+      "color": "#FFEFD4",
+      "links": {}
+    },
+    "Tompkinsville-Stapleton-Clifton-Fox Hills": {
+      "weight": 1,
+      "color": "#FFECEC",
+      "links": {}
+    },
+    "Parkchester": {
+      "weight": 1,
+      "color": "#FFF3FF",
+      "links": {}
+    },
+    "Oakland Gardens-Hollis Hills": {
+      "weight": 1,
+      "color": "#FFECFF",
+      "links": {}
+    },
+    "Rosebank-Shore Acres-Park Hill": {
+      "weight": 1,
+      "color": "#FFFEF5",
+      "links": {}
+    },
+    "Far Rockaway-Bayswater": {
+      "weight": 1,
+      "color": "#FFF8FF",
+      "links": {}
+    },
+    "Mariner's Harbor-Arlington-Graniteville": {
+      "weight": 1,
+      "color": "#FFD9EC",
+      "links": {}
+    },
+    "University Heights (South)-Morris Heights": {
+      "weight": 1,
+      "color": "#FFECFF",
+      "links": {}
+    },
+    "Crown Heights (South)": {
+      "weight": 1,
+      "color": "#FFECFF",
+      "links": {}
+    },
+    "Whitestone-Beechhurst": {
+      "weight": 1,
+      "color": "#FFFCF5",
+      "links": {}
+    },
+    "Westerleigh-Castleton Corners": {
+      "weight": 1,
+      "color": "#FFE8FF",
+      "links": {}
+    },
+    "Kingsbridge-Marble Hill": {
+      "weight": 1,
+      "color": "#FFEFFF",
+      "links": {}
+    }
+  }
+}

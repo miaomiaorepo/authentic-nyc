@@ -1,0 +1,420 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 600px;
+  background-image: url("../img/header2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 60px;
+}
+
+body {
+  background-color: #f6ece0;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  color: #454444;
+  font-weight: 300;
+  overflow-x: hidden;
+}
+
+.content h3 {
+  font-family: "Unna";
+  color: #1d2129;
+  height: 100px;
+  font-size: 32px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-weight: 700px;
+  text-align: center;
+  padding-left: 80px;
+  display: flex;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: contain;
+}
+
+h3.heading-1 {
+  background-image: url("../img/heading-1.png");
+}
+
+h3.heading-2 {
+  background-image: url("../img/heading-1.png");
+}
+
+p {
+  width: 700px;
+  margin-bottom: 2em;
+  line-height: 1.7;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.chart-title {
+  color: #1d2129;
+  font-size: 20px;
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+  font-weight: 600;
+  text-align: center;
+}
+
+.sub-chart-title {
+  font-size: 18px;
+  margin-bottom: 2em;
+  font-weight: 400;
+  text-align: center;
+}
+
+.hover-icon {
+  font-weight: 600;
+}
+
+.hover-icon::before {
+  content: "";
+  background-image: url("../img/touch.png");
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  position: relative;
+  top: 0.3rem;
+  left: 0;
+  margin-right: 0.25rem;
+}
+
+#cards {
+  height: 450px;
+  position: relative;
+  margin-bottom: 4em;
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+  display: flex;
+}
+
+.card_container {
+  width: 980px;
+  height: 450px;
+  position: absolute;
+}
+
+#review_table {
+  position: relative;
+  width: 700px;
+  margin: auto;
+  margin-bottom: 4em;
+}
+
+#keywords {
+  height: 400px;
+  position: relative;
+  margin-bottom: 4em;
+  display: flex;
+  justify-content: center;
+}
+
+.keywords_container {
+  width: 980px;
+  height: 400px;
+}
+
+#map {
+  height: 100vh;
+  width: 100vw;
+  background-color: #f1f1f1;
+}
+
+#bigraph {
+  position: relative;
+  height: 600px;
+  margin-bottom: 4em;
+  display: flex;
+  justify-content: center;
+  background-color: #f6ece0;
+}
+
+#bigraph svg {
+  display: block;
+}
+
+#geo {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+#geo .areas {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  flex-direction: column;
+  gap: 20px;
+  font-size: 18px;
+  z-index: 2;
+  display: table;
+  border-spacing: 5px;
+}
+
+#geo .area {
+  display: inline-block;
+  outline: none;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 5px;
+  transition-property: background-color, border-color, color, box-shadow, filter;
+  transition-duration: 0.3s;
+  border: 1px solid transparent;
+  letter-spacing: 2px;
+  /* min-width: 160px; */
+  text-transform: uppercase;
+  white-space: normal;
+  font-weight: 400;
+  text-align: center;
+  padding: 8px 14px;
+  color: #454444;
+  box-shadow: inset 0 0 0 1px #454444;
+  background-color: transparent;
+  height: 20px;
+  vertical-align: middle;
+  display: table-cell;
+}
+
+#geo .area:hover {
+  background-color: rgb(243, 242, 241);
+  color: rgb(32, 31, 30);
+}
+
+#map {
+  position: absolute;
+  /* border: 1px solid orange; */
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+}
+
+#search-box {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 30px 0px 30px;
+  width: 350px;
+  height: calc(100vh - 32px);
+  background-color: rgba(255, 255, 255, 0.75);
+  z-index: 1;
+}
+
+#geo .title {
+  margin: auto;
+  align-items: center;
+  margin-top: 25px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #1d2129;
+}
+
+#geo .btns {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 32px 0;
+}
+
+#geo .filter_section {
+  /* display: flex; */
+  /* align-items: left; */
+  align-items: left;
+  width: 100%;
+}
+
+#geo h3 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: left;
+  color: #1d2129;
+  width: 188px;
+  height: 24px;
+}
+
+#neighborhood-search-input {
+  width: 350px;
+  height: 28px;
+  font-size: 14px;
+  background: #ffffff;
+  border: 1px solid #454444;
+  border-radius: 5px;
+}
+
+#neighborhood-search-input:focus {
+  outline: none; /* Remove the default focus outline */
+  border-color: #454444; /* Set the border color when focused */
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1); /* Add a box shadow when focused */
+}
+
+#cuisine-search-input {
+  width: 350px;
+  height: 28px;
+  font-size: 14px;
+  background: #ffffff;
+  border: 1px solid #454444;
+  border-radius: 5px;
+  overflow-y: auto;
+}
+
+#cuisine-search-input:focus {
+  outline: none; /* Remove the default focus outline */
+  border-color: #454444; /* Set the border color when focused */
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1); /* Add a box shadow when focused */
+}
+
+#geo .dropdown {
+  width: 350px;
+}
+
+#geo .dropdown-input {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#geo .dropdown-list {
+  padding: 8px 10px;
+  font-size: 14px;
+  position: absolute;
+  width: 80%;
+  max-height: 200px;
+  overflow-y: auto;
+  display: none;
+  cursor: pointer;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  z-index: 999;
+}
+
+#geo .dropdown-item {
+  padding: 8px 10px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+#geo .dropdown-item:hover {
+  background-color: #f0f0f0;
+}
+
+#reset-button {
+  border: none;
+  background: none;
+  width: 250px;
+  height: 28px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #616467;
+  text-decoration: underline;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  align-items: center;
+  padding: 2px 10px;
+  margin: auto;
+}
+
+#reset-button:hover {
+  color: #1c1c1c; /* Change the color when hovering */
+  transform: scale(1.1); /* Add a scaling effect when hovering */
+}
+
+#geo .table {
+  /* border: 1px solid red; */
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  margin-bottom: 27px;
+  overflow-y: scroll;
+}
+
+#geo .restaurant {
+  margin-bottom: 10px;
+  margin-right: 3px;
+}
+
+#geo .res_info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+#geo .basic_info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#geo .res_name {
+  font-size: 14px;
+  font-weight: 600;
+  color: #1d2129;
+}
+
+#geo .res_category {
+  font-size: 14px;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+#geo .line {
+  border: 0.5px solid rgba(215, 219, 221, 0.5);
+  margin-top: 10px;
+}
+
+/* Target the Awesomplete list container */
+#awesomplete_list_1 {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  max-height: 200px;
+  overflow-y: auto;
+  font-size: 14px;
+  z-index: 999;
+  cursor: pointer;
+}
+
+/* Target the individual list items */
+#awesomplete_list_1 li {
+  padding: 8px 10px;
+  cursor: pointer;
+}
+
+/* Style the selected item */
+#awesomplete_list_1 li:hover,
+#awesomplete_list_1 li[aria-selected="true"] {
+  background-color: #f0f0f0;
+}
+
+/* Style the highlighted item in the dropdown */
+#awesomplete_list_1 li[aria-selected="true"] {
+  color: #1d2129;
+}
+
+/* Style the status message */
+/* #awesomplete_list_1 .awesomplete-status {
+  display: none; 
+} */
