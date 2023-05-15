@@ -6,7 +6,8 @@
   "scripts": {
     "build": "webpack --mode=production",
     "dev": "webpack serve --hot",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist -b release"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
     "@types/mapbox-gl": "^2.7.11",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.7.3",
+    "gh-pages": "^5.0.0",
     "html-webpack-plugin": "^5.5.1",
     "prettier": "2.8.8",
     "style-loader": "^3.3.2",
