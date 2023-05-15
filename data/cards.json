@@ -1,0 +1,81 @@
+[
+  {
+    "name": "japan",
+    "size": 160,
+    "front": "../img/japan-front.png",
+    "back": "../img/japan-back.png"
+  },
+  {
+    "name": "korean",
+    "size": 120,
+    "front": "../img/korean-front.png",
+    "back": "../img/korean-back.png"
+  },
+  {
+    "name": "french",
+    "size": 70,
+    "front": "../img/french-front.png",
+    "back": "../img/french-back.png"
+  },
+
+  {
+    "name": "mexican",
+    "size": 180,
+    "front": "../img/mexican-front.png",
+    "back": "../img/mexican-back.png"
+  },
+  {
+    "name": "thai",
+    "size": 120,
+    "front": "../img/thai-front.png",
+    "back": "../img/thai-back.png"
+  },
+  {
+    "name": "italian",
+    "size": 220,
+    "front": "../img/italian-front.png",
+    "back": "../img/italian-back.png"
+  },
+  {
+    "name": "latin",
+    "size": 150,
+    "front": "../img/latin-front.png",
+    "back": "../img/latin-back.png"
+  },
+  {
+    "name": "caribbean",
+    "size": 140,
+    "front": "../img/caribbean-front.png",
+    "back": "../img/caribbean-back.png"
+  },
+  {
+    "name": "indian",
+    "size": 130,
+    "front": "../img/indian-front.png",
+    "back": "../img/indian-back.png"
+  },
+  {
+    "name": "greek",
+    "size": 90,
+    "front": "../img/greek-front.png",
+    "back": "../img/greek-back.png"
+  },
+  {
+    "name": "spanish",
+    "size": 100,
+    "front": "../img/spanish-front.png",
+    "back": "../img/spanish-back.png"
+  },
+  {
+    "name": "mideastern",
+    "size": 150,
+    "front": "../img/mideastern-front.png",
+    "back": "../img/mideastern-back.png"
+  },
+  {
+    "name": "chinese",
+    "size": 220,
+    "front": "../img/chinese-front.png",
+    "back": "../img/chinese-back.png"
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "Chinese": {
+    "size": 300
+  },
+  "Indian": {
+    "size": 130
+  },
+  "Mexican": {
+    "size": 280
+  },
+  "Latin American": {
+    "size": 160
+  },
+  "Mediterranean": {
+    "size": 100
+  },
+  "Caribbean": {
+    "size": 140
+  },
+  "Italian": {
+    "size": 170
+  },
+  "African": {
+    "size": 100
+  },
+  "Thai": {
+    "size": 100
+  },
+  "Spanish": {
+    "size": 100
+  },
+  "Vietnamese": {
+    "size": 100
+  },
+  "Malaysian": {
+    "size": 100
+  },
+  "Eastern European": {
+    "size": 100
+  },
+  "Korean": {
+    "size": 100
+  },
+  "Japanese": {
+    "size": 160
+  },
+  "Middle Eastern": {
+    "size": 100
+  },
+  "Greek": {
+    "size": 80
+  },
+  "Taiwanese": {
+    "size": 100
+  },
+  "Filipino": {
+    "size": 100
+  },
+  "German": {
+    "size": 100
+  },
+  "Brazilian": {
+    "size": 100
+  },
+  "French": {
+    "size": 80
+  }
+}
