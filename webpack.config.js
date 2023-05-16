@@ -1,6 +1,6 @@
-const CopyPlugin = require("copy-webpack-plugin");
-const HtmlWebpackPlugin = require("html-webpack-plugin");
-const path = require("path");
+const CopyPlugin = require("copy-webpack-plugin")
+const HtmlWebpackPlugin = require("html-webpack-plugin")
+const path = require("path")
 
 module.exports = {
   mode: "development",
@@ -38,7 +38,7 @@ module.exports = {
     extensions: [".tsx", ".ts", ".js"],
   },
   output: {
-    filename: "bundle.js",
+    filename: "js/bundle.js",
     path: path.resolve(__dirname, "dist"),
   },
   plugins: [
@@ -53,4 +53,4 @@ module.exports = {
       inject: "body",
     }),
   ],
-};
+}
