@@ -13,8 +13,8 @@ const map = new mapboxgl.Map({
   accessToken: "pk.eyJ1IjoieGlhb3M2NTYiLCJhIjoiY2w4OWJmZHpxMDVlcTQ0cnhxZmp1YmJoOCJ9.Nh1Jz2n2i0S0nG_GJqfhNw",
   container: "map",
   style: "mapbox://styles/xiaos656/clhnjfqax018l01pega9icmox",
-  center: [-73.9385, 40.7943],
-  zoom: 11.5,
+  center: [-73.895, 40.746],
+  zoom: 11.01,
   interactive: true,
 })
 
@@ -253,8 +253,8 @@ d3.select(resetButton).on("click", () => {
 
   // Zoom out to the original view
   map.flyTo({
-    center: [-73.9385, 40.7943],
-    zoom: 11.5,
+    center: [-73.895, 40.746],
+    zoom: 11.01,
     essential: true,
   })
   restaurantNodeCreator(data, 10)
