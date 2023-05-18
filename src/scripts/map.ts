@@ -165,8 +165,9 @@ map.on("load", function () {
     const type = feature.properties!.parent_category
     const address = feature.properties!.address1
     const city = feature.properties!.city
+    const cuisine = feature.properties!.parent_category
 
-    let tooltip = `${name}<br/>${address}, ${city}`
+    let tooltip = `${name}<br/>${cuisine}<br/>${address}, ${city}`
 
     popup.setLngLat([lng, lat]).setHTML(tooltip).addTo(map)
   })
