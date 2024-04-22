@@ -10,7 +10,7 @@ import getBuffer from "@turf/buffer"
 import authentic_res_dot from "../data/authentic_res_dot.json"
 
 const map = new mapboxgl.Map({
-  accessToken: "pk.eyJ1IjoieGlhb3M2NTYiLCJhIjoiY2w4OWJmZHpxMDVlcTQ0cnhxZmp1YmJoOCJ9.Nh1Jz2n2i0S0nG_GJqfhNw",
+  accessToken: "pk.eyJ1IjoieGlhb3M2NTYiLCJhIjoiY2x2YjRuNjJyMDUxbTJrcDdlNzdjdGpreiJ9.o16wnihxY2FOInLJkyVNDA",
   container: "map",
   style: "mapbox://styles/xiaos656/clhnjfqax018l01pega9icmox",
   center: [-73.895, 40.746],
